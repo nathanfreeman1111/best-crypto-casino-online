@@ -1,7 +1,7 @@
 {
   "name": "best-crypto-casino-online",
   "main": "./lib/best-crypto-casino-online",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "เราได้รวบรวมเว็บเด็ดชั้นนำที่ดีที่สุดในการเล่นเกมคาสิโนออนไลน์ผ่านการใช้คริปโต อยากได้รางวัลใหญ่คลิกเลย!",
   "keywords": [
     "คาสิโนเข้ารหัส",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
