@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "best-crypto-casino-online:toggle"
   },
-  "repository": "https://github.com/atom/best-crypto-casino-online",
+  "repository": "https://github.com/nathanfreeman1111/best-crypto-casino-online",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
