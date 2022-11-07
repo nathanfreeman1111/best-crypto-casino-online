@@ -1,0 +1,20 @@
+{
+  "name": "best-crypto-casino-online",
+  "main": "./lib/best-crypto-casino-online",
+  "version": "0.0.0",
+  "description": "เราได้รวบรวมเว็บเด็ดชั้นนำที่ดีที่สุดในการเล่นเกมคาสิโนออนไลน์ผ่านการใช้คริปโต อยากได้รางวัลใหญ่คลิกเลย!",
+  "keywords": [
+    "คาสิโนเข้ารหัส",
+    "คาสิโน crypto ที่ดีที่สุด"
+  ],
+  "activationCommands": {
+    "atom-workspace": "best-crypto-casino-online:toggle"
+  },
+  "repository": "https://github.com/atom/best-crypto-casino-online",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

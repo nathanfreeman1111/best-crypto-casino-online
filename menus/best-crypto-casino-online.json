@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle best-crypto-casino-online",
+        "command": "best-crypto-casino-online:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "best-crypto-casino-online",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "best-crypto-casino-online:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
